@@ -1,19 +1,16 @@
-# Hello there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-My name is **Malithya Fernando** and I'm a computer scuence undergraduate at University of Colombo School of Computing. I'm from Sri Lanka, living in Moratuwa. You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+<h2 align="center">Hello there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<p align="center">My name is Malithya Fernando.<br>I'm a Front End Web Developer, Back End Web Developer, Content Creator and Designer from Sri Lanka.
+Currently, I'm pursuing my Bsc in Computer Science at University of Colombo School of Computing.
+I'm passionate about Web application, desktop application developing and UI/UX designing.
+When I'm not developing and building things, you can find me watching things on YouTube, listnening to the music, watching movies or tv series, or on my phone. But most of my days are spent developing and learning new things, studying or watching movies or tv series.</p>
 
 <p align="center">
-<a href="https://stephenajulu.com"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/link-solid.svg"></a>&nbsp;&nbsp;
-<a href="https://facebook.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/facebook-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/twitter-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/instagram-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/stephenajulu/"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/linkedin-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://github.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/github-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="mailto:alunje73@pm.me"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/envelope-square-solid.svg"></a>&nbsp;&nbsp;
-<a href="https://www.youtube.com/channel/UC043ZXL-t3yqtgcIxJmkHuA?view_as=subscriber"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/youtube-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://medium.com/@stephenajulu"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/medium-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://dribbble.com/stephenajulu"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/dribbble-square-brands.svg"></a>&nbsp;&nbsp;
-<a href="https://dev.to/stephenajulu"><img height="30" src="https://github.com/stephenajulu/stephenajulu/blob/master/images/icons/dev-brands.svg"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/malithya.fernando.7"><img height="30" src="https://github.com/MalithyaFernando/MalithyaFernando/blob/main/images/icons8-facebook-48.png"></a>&nbsp;&nbsp;
+<a href="https://www.instagram.com/__malithi_batithi__/"><img height="30" src="https://github.com/MalithyaFernando/MalithyaFernando/blob/main/images/icons8-instagram-48.png"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/Malithi_girl"><img height="30" src="https://github.com/MalithyaFernando/MalithyaFernando/blob/main/images/icons8-twitter-48.png"></a>&nbsp;&nbsp;
+<a href="https://github.com/MalithyaFernando"><img height="30" src="https://github.com/MalithyaFernando/MalithyaFernando/blob/main/images/icons8-github-48.png"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/malithya-fernando-a3388a4b/"><img height="30" src="https://github.com/MalithyaFernando/MalithyaFernando/blob/main/images/icons8-linkedin-48.png"></a>&nbsp;&nbsp;
+<a href="mailto:malithyafernando@gmail.com"><img height="30" src="https://github.com/MalithyaFernando/MalithyaFernando/blob/main/images/icons8-gmail-48.png"></a>&nbsp;&nbsp;
 </p>
 
 ## &#x1f4c8; GitHub Stats
