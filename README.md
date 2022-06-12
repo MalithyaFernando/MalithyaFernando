@@ -1,4 +1,4 @@
-<h2 align="center">Hello there!<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h2>
+<!-- <h2 align="center">Hello there!🙋🏾‍♀️</h2> -->
 
 [![Malithya Fernando's header](https://github.com/MalithyaFernando/MalithyaFernando/blob/main/images/Malithya%20Fernando.png)](https://github.com/MalithyaFernando)
 
