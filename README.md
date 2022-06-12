@@ -1,4 +1,4 @@
-<!-- <h2 align="center">Hello there!🙋🏾‍♀️</h2> -->
+<h2 align="center">Hello there!🙋🏾‍♀️</h2>
 
 [![Malithya Fernando's header](https://github.com/MalithyaFernando/MalithyaFernando/blob/main/images/Malithya%20Fernando.png)](https://github.com/MalithyaFernando)
 
